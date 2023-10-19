@@ -2,28 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Software Group 12</title>
     <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background: url('.jpg') no-repeat center center;
-            background-size: cover;
-            color: #fff;
-            padding: 20px;
-        }
-
-        h1 {
-            font-size: 36px;
-        }
-
         .teammates {
             display: flex;
             flex-wrap: wrap;
@@ -63,7 +42,7 @@
     </header>
     <div class="teammates">
         <div class="teammate">
-            <h2>Zi Yang</h2>
+            <h2>Ziyang Wang</h2>
             <p>Role: Leader</p>
             <a href="https://example.com/project1">Explore Project</a>
         </div>
