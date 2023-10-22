@@ -96,7 +96,7 @@
         <div class="teammate">
             <h2>Bin Jia</h2>
             <p>Role: Leader</p>
-            <a href="https://example.com/project2">Explore Project</a>
+            <a href="https://example.com/project2">Explore me</a>
         </div>
         <div class="teammate">
             <h2>Jianxu Shangguan</h2>
@@ -106,7 +106,7 @@
         <div class="teammate">
             <h2>Eajun</h2>
             <p>Role: Learner</p>
-            <a href="https://example.com/project4">Explore Project</a>
+            <a href="https://example.com/project4">Explore me</a>
         </div>
         <div class="teammate">
             <h2>asfasfasf</h2>
