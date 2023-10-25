@@ -74,34 +74,30 @@
     <!-- Teammates section -->
     <div class="teammates">
         <div class="teammate">
-            <h2>Zi Yang</h2>
+            <h2>Zi Yang Wang</h2>
             <p>Role: Leader</p>
-            <a href="https://example.com/project1">Explore me</a>
+            <p>Email: scyzw14@nottingham.edu.cn</p>
         </div>
         <div class="teammate">
             <h2>Bin Jia</h2>
-            <p>Role: Leader</p>
-            <a href="https://example.com/project2">Explore me</a>
+            <p>Role: Project Manager</p>
+            <p>Email: hmybj2@nottingham.edu.cn</a>
         </div>
         <div class="teammate">
             <h2>Jianxu Shangguan</h2>
             <p>Role: Project Manager</p>
-            <a href="https://example.com/project3">Explore me</a>
+            <p>Email: scyjs5@nottingham.edu.cn</a>
         </div>
         <div class="teammate">
-            <h2>Eajun</h2>
-            <p>Role: Learner</p>
-            <a href="https://example.com/project4">Explore me</a>
+            <h2>Eajun Ooi Yik Jun</h2>
+            <p>Role: Interface design</p>
+            <p>Email: hfyeo1@nottingham.edu.cn</a>
         </div>
         <div class="teammate">
-            <h2>asfasfasf</h2>
-            <p>Role: Learner</p>
-            <a href="https://example.com/project1">Explore me</a>
+            <h2>Shi Yun Xiang</h2>
+            <p>Role: Member</p>
+            <p>Email: scyys10@nottingham.edu.cn</a>
         </div>
-    </div>
-    
-    <div class="project-link">
-        <a href="https://example.com/current-project">Check Out Our Current Project</a>
     </div>
 </body>
 </html>
