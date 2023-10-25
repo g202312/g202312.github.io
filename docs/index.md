@@ -1,12 +1,104 @@
-# Bespoke Artificial Textual Assistant (BATA): An Innovative Fusion of Localized Large Language Models for Next-Generation Virtual Interaction
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Group 12</title>
+    <style>
 
-[edit on github](https://github.com/g202312/g202312.github.io)
+        .teammates {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px;
+        }
 
-In the ever-evolving landscape of artificial intelligence, there exists an inexorable quest for the development of intelligent and responsive virtual entities that can seamlessly integrate into our daily lives. BATA, an acronym for "Bespoke Artificial Textual Assistant," is a pioneering advancement in this realm, representing a convergence of state-of-the-art technologies. This virtual human, powered by Unreal Engine 5 and localized Large Language Models (LLMs), is a testament to the relentless pursuit of enhancing human-computer interaction and ushering in a new era of human-centric AI.
+        .teammate {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            margin: 10px;
+            padding: 20px;
+            max-width: 200px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
 
-The concept of BATA envisions an artificial textual assistant that transcends the conventional boundaries of text-based interactions. By harnessing the capabilities of Unreal Engine 5, a groundbreaking game engine renowned for its exceptional graphical fidelity and real-time interactivity, BATA aims to imbue virtual humans with unparalleled levels of realism, responsiveness, and versatility. Unreal Engine 5's advanced rendering and animation systems, combined with its impressive capacity for simulating virtual worlds, offer an ideal foundation for the creation of immersive and lifelike conversational agents.
+        .teammate:hover {
+            transform: translateY(-5px);
+        }
 
-However, what sets BATA apart is its localization and integration of Large Language Models (LLMs). These LLMs, like their predecessors in the GPT (Generative Pre-trained Transformer) family, have proven themselves to be highly proficient in natural language understanding and generation. By localizing LLMs, BATA becomes contextually aware and able to comprehend nuances specific to different languages, cultures, and domains. This ensures that BATA is not just a one-size-fits-all virtual assistant but a bespoke creation tailored to the unique needs and expectations of users from diverse backgrounds.
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: 600;
+        }
 
-This academic introduction serves as a gateway into the world of BATA, providing an initial glimpse into the innovative synergy between Unreal Engine 5 and localized LLMs. As we delve deeper into the multifaceted dimensions of this technological marvel, we will explore the implications, applications, and ethical considerations surrounding the development of BATA. From facilitating advanced human-computer interactions to expanding the frontiers of AI localization, BATA represents a pioneering step toward a future where virtual humans can seamlessly integrate into our lives, bridging the gap between the digital and physical realms.
-
+        a:hover {
+            text-decoration: underline;
+        }
+        .supervisor {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            margin: 0 auto; /* Center horizontally */
+            padding: 20px;
+            max-width: 200px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center vertically */
+        }
+    
+        .supervisor:hover {
+            transform: translateY(-5px);
+        }    
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Group 12</h1>
+    </header>
+    
+    <!-- Supervisor section -->
+    <div class="supervisor">
+        <h2>Supervisor Name</h2>
+        <p>Role: Supervisor</p>
+        <a href="https://example.com/supervisor-project">Explore me</a>
+    </div>
+    
+    <!-- Teammates section -->
+    <div class="teammates">
+        <div class="teammate">
+            <h2>Zi Yang</h2>
+            <p>Role: Leader</p>
+            <a href="https://example.com/project1">Explore me</a>
+        </div>
+        <div class="teammate">
+            <h2>Bin Jia</h2>
+            <p>Role: Leader</p>
+            <a href="https://example.com/project2">Explore me</a>
+        </div>
+        <div class="teammate">
+            <h2>Jianxu Shangguan</h2>
+            <p>Role: Project Manager</p>
+            <a href="https://example.com/project3">Explore me</a>
+        </div>
+        <div class="teammate">
+            <h2>Eajun</h2>
+            <p>Role: Learner</p>
+            <a href="https://example.com/project4">Explore me</a>
+        </div>
+        <div class="teammate">
+            <h2>asfasfasf</h2>
+            <p>Role: Learner</p>
+            <a href="https://example.com/project1">Explore me</a>
+        </div>
+    </div>
+    
+    <div class="project-link">
+        <a href="https://example.com/current-project">Check Out Our Current Project</a>
+    </div>
+</body>
+</html>
