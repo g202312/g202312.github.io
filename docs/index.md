@@ -66,9 +66,9 @@
     
     <!-- Supervisor section -->
     <div class="supervisor">
-        <h2>Supervisor Name</h2>
+        <h2>Jian Feng ren</h2>
         <p>Role: Supervisor</p>
-        <a href="https://example.com/supervisor-project">Explore me</a>
+        <p>Email: JianFeng.Ren@nottingham.edu.cn</a>
     </div>
     
     <!-- Teammates section -->
