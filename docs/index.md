@@ -60,6 +60,9 @@
     <header>
         <h1>Group 12</h1>
     </header>
+
+    <div><p>The forthcoming section provides an in-depth overview of the team composition and the computational infrastructure that underpins our project.Our team is comprised of five individuals, each possessing distinct competencies and specializations. Ziyang Wang’s expertise lies in algorithm design and implementation, with a research focus on deep learning and quantum computing. Bin Jia contributes his proficiency in project management and commercialization, with a particular interest in Unreal Engine development and knowledge-transfer. Jianxu Shangguan is also adept at algorithm design and implementation, with a specialization in computer vision. Eajun’s forte is web development and requirement engineering, while Haoxiang Shi is responsible for data collection and cleaning.Regarding infrastructure, we utilize a remote computation station furnished with two A800 computation cards. These cards are constructed on the 7 nm process and are based on the GA100 graphics processor with 80G VRAM. This setup is capable of training a Language Model with 30 billion parameters.
+    </p></div>
     
     <!-- Supervisor section -->
     <div class="supervisor">
