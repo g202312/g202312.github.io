@@ -19,7 +19,7 @@
             border-radius: 10px;
             margin: 10px;
             padding: 20px;
-            max-width: 200px;
+            max-width: 300px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
             transition: transform 0.2s;
         }
