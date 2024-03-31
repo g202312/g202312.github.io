@@ -1,6 +1,6 @@
-# Week9 Meeting
+# Week9-1 Meeting
 ## Basic Info
-**Date**: 2024.2.20
+**Date**: 2024.2.20 (Tuesday)
 
 **Location**: IEB trio
 
