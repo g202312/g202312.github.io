@@ -8,15 +8,25 @@
 - Ziyang Wang (online)
 - Bin Jia 
 - Jianxu Shangguan
-- Eajun (online: sick leave)
+- Eajun (online: sick leave)  Note: Take note of Eajun's absence due to sick leave.
 - Yunxiang Shi 
 
 ## Agenda 1: Review of past week progress
-1. Yunxiang collect the first part of information about the career and further study prospect of UNNC. The information is organized into a .txt file with clear format can be recoginzed by vector database;
-2. Whisper + LLAMA-2 is implemented and organized by scalar. The performance is tested. It takes around 1 seconds to execute speech to text (Whisper) and 2~5 seconds to generate answer (LLAMA-2)
+
+1. **Accomplishment:** Yunxiang successfully collected the first part of information and organized it into a clear, vector database-compatible .txt file format.
+- **Next Steps:**
+    - Discuss what other information needs to be collected.
+    - Determine if there are any specific formats required for the vector database.
+2. **Whisper + LLAMA-2 Implementation:**
+- **Accomplishment:** Bin successfully implemented and organized Whisper (speech-to-text) and LLAMA-2 (answer generation) using Scalar. Performance testing was conducted.
+- **Results:** Speech-to-text takes approximately 1 second, while answer generation takes 2-5 seconds.
+- **Next Steps:**
+    - Analyze if the performance results meet expectations.
+    - Discuss potential optimizations for faster processing.
 
 ## Agenda 2: Review and Reflect on the Mid-term Report
-1. Jianfeng anaylzes and make comments on our mid-term report with marking rubric (The comments is summarized and add to overleaf documents)
+1. **Mid-Term Report Review:** Jianfeng analyzed the mid-term report using the marking rubric and provided summarized comments in the Overleaf document.
+- **Action Item:** Review Jianfeng's comments within the Overleaf document and prepare any necessary revisions.
 
 ## Agenda 3: Next Week Plan
 1. Implememt TTS (Text2speech) and choose a suitable voice;
